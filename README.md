@@ -5,6 +5,12 @@ Experienced professional with a proven track record of managing complex situatio
 
 <!---   I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. --->
 
+<a href="https://www.credential.net/91d0a553-61d9-4031-8630-102b8c32e18f#acc.7NfpBOc3/"><img
+
+
+
+
+
 
 ## Objective
 <!--- [Provide Objective - Remove this afterwards]] --->
