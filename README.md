@@ -5,8 +5,7 @@ Experienced professional with a proven track record of managing complex situatio
 
 <!---   I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. --->
 
-<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83926144"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83926144" /></a>
-<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/83926144"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/83926144" /></a>
+
 
 
 
@@ -54,6 +53,10 @@ Experienced professional with a proven track record of managing complex situatio
 </div>
 
 ## Certifications
+
+<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83926144"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83926144" /></a>
+<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/83926144"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/83926144" /></a>
+
 <!--- [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]] --->
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
