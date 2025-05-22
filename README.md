@@ -13,7 +13,7 @@ Experienced professional with a proven track record of managing complex situatio
 
 ## Skills
 <!--- [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]] --->
-
+<!---
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
@@ -22,7 +22,7 @@ Experienced professional with a proven track record of managing complex situatio
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+--->
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
