@@ -56,6 +56,30 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 
+[![Joseph's Cyberskyline cert]](https://cyberskyline.com/verify/BDU6LFNA39R1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybersenz)](https://github.com/cybersenz/github-readme-stats)
 
 
 
