@@ -54,9 +54,9 @@ Experienced professional with a proven track record of managing complex situatio
 
 ## Certifications
 
-<a href="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> /></a
 
-src="//cdn.credly.com/assets/utilities/embed.js" /></a
+
 
 
 
