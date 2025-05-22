@@ -94,7 +94,7 @@ Experienced professional with a proven track record of managing complex situatio
 
 
 
-## Hi there 👋
+<!--- ## Hi there 👋 --->
 
 <!--
 **cybersenz/cybersenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
