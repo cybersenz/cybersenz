@@ -1,7 +1,7 @@
 # Hello, I'm Joseph
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Experienced professional with a proven track record of managing complex situations and critical information in high-stakes environments, seeking to apply these analytical and problem-solving strengths into cybersecurity. My background has honed my ability to identify, analyze, and mitigate technical risks, ensuring robust security postures and organizational resilience through proactive strategies and clear communication of actionable insights. I thrive in high-stress environments and am a dedicated team player committed to safeguarding vital assets.]
+Experienced professional with a proven track record of managing complex situations and critical information in high-stakes environments, seeking to apply these analytical and problem-solving strengths into cybersecurity. My background has honed my ability to identify, analyze, and mitigate technical risks, ensuring robust security postures and organizational resilience through proactive strategies and clear communication of actionable insights. I thrive in high-stress environments and am a dedicated team player committed to safeguarding vital assets.
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
