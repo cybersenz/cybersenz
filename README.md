@@ -107,7 +107,7 @@ Experienced professional with a proven track record of managing complex situatio
 
 ## Section One Above -> SANS Technical Institute
 
-Some content here
+<!--- Some content here --->
 
 ## Section Two Bellow -> University Miami Cybersecurity Bootcamp
 
