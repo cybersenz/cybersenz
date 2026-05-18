@@ -139,6 +139,9 @@ Functional: Documentation, ticket queue management, customer support, technical 
 [![Joseph's Cyberskyline cert]](https://cyberskyline.com/verify/BDU6LFNA39R1)
 
 
+<a href="https://cyberskyline.com/verify/BDU6LFNA39R1" target="_blank">
+  <img src="YOUR_CREDLY_BADGE_2_IMAGE_URL" alt="Certification" width="150" />
+</a>  Badge 2 -->
 
 
 
