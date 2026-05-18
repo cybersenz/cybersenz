@@ -57,20 +57,20 @@ Experienced professional with a proven track record of managing complex situatio
 ### Badges
 <div>
 
-<!-- Credly Badge 1 — right-click your badge on credly.com → Copy image address → paste below -->
+<!-- Credly Badge 7 — right-click your badge on credly.com → Copy image address → paste below -->
 <a href="https://www.credly.com/badges/e5abb74a-3a0f-4bfb-9e78-22c12cddbe28/public_url" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/b8200bcb-258a-4089-b43d-fe23dfdc3097/image.png" alt="GIAC Certification" width="300" />
 </a>
 
 
-<!-- Credly Badge 2 -->
+<!-- Credly Badge 5 -->
 <a href="https://www.credly.com/badges/f645f2e3-a252-4484-8625-f587d44fbc8d/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/ff692b5b-67a7-40f9-b8c9-8eb6308f4f53/image.png" alt=" GIAC Certification" width="300" />
+  <img src="https://images.credly.com/size/340x340/images/ff692b5b-67a7-40f9-b8c9-8eb6308f4f53/image.png" alt="GIAC Certification" width="300" />
 </a>
 
-<!-- Credly Badge 2 -->
-<a href="https://www.credly.com/badges/b057c9e5-e307-461b-8491-3eee48b3ae23/public_url" target="_blank">
-  <img src="YOUR_CREDLY_BADGE_2_IMAGE_URL" alt="Certification" width="150" />
+<!-- Credly Badge 5 -->
+<a href="https://www.credly.com/badges/99f5865f-8d9f-4341-bae1-5e96af3faf7f/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/14667922-c91c-40b6-91d6-92f932f575a2/image.png" alt="GIAC Certification" width="300" />
 </a>
 
 
