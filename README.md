@@ -64,27 +64,6 @@ Experienced professional with a proven track record of managing complex situatio
 
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e5abb74a-3a0f-4bfb-9e78-22c12cddbe28" <a href="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>"
-
-
-
-
-
-<a href="https://www.credly.com/badges/e5abb74a-3a0f-4bfb-9e78-22c12cddbe28/public_url" /></a
-
-
-
-<a href="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script> /></a
-
-
-
-<a href"https://www.credly.com/badges/b057c9e5-e307-461b-8491-3eee48b3ae23" /></a
-
-
-
-
-
-
 
 
 
