@@ -92,16 +92,16 @@ Experienced professional with a proven track record of managing complex situatio
 </a>
 
 <!-- Credly Badge 2 -->
-<a href="https://www.credly.com/badges/b057c9e5-e307-461b-8491-3eee48b3ae23/public_url" target="_blank">
-  <img src="YOUR_CREDLY_BADGE_2_IMAGE_URL" alt="Certification" width="150" />
+<a href="https://www.credly.com/badges/638ef9b9-2d92-4862-95ef-56773e53e5fe/public_url" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/2d9b3293-9295-4ac3-a326-1bb7013225a4/image.png" alt="Certification" width="300" />
 </a>
 
 
 
-<!-- Credly Badge 2 -->
+<!-- Credly 
 <a href="https://www.credly.com/badges/b057c9e5-e307-461b-8491-3eee48b3ae23/public_url" target="_blank">
   <img src="YOUR_CREDLY_BADGE_2_IMAGE_URL" alt="Certification" width="150" />
-</a>
+</a>  Badge 2 -->
 
 
 
