@@ -63,7 +63,7 @@ Experienced professional with a proven track record of managing complex situatio
 </a>
 
 
-<!-- Credly Badge 5 -->
+<!-- Credly Badge 6 -->
 <a href="https://www.credly.com/badges/f645f2e3-a252-4484-8625-f587d44fbc8d/public_url" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/ff692b5b-67a7-40f9-b8c9-8eb6308f4f53/image.png" alt="GIAC Certification" width="300" />
 </a>
@@ -74,9 +74,9 @@ Experienced professional with a proven track record of managing complex situatio
 </a>
 
 
-<!-- Credly Badge 2 -->
+<!-- Credly Badge 4 -->
 <a href="https://www.credly.com/badges/b057c9e5-e307-461b-8491-3eee48b3ae23/public_url" target="_blank">
-  <img src="YOUR_CREDLY_BADGE_2_IMAGE_URL" alt="Certification" width="150" />
+  <img src="https://images.credly.com/size/340x340/images/c3e2745b-2f30-4e6b-9290-f7557a705181/image.png" alt="GIAC Certification" width="300" />
 </a>
 
 
