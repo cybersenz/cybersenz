@@ -140,8 +140,8 @@ Functional: Documentation, ticket queue management, customer support, technical 
 
 
 <a href="https://cyberskyline.com/verify/BDU6LFNA39R1" target="_blank">
-  <img src="YOUR_CREDLY_BADGE_2_IMAGE_URL" alt="Certification" width="150" />
-</a>  Badge 2 -->
+<img src="https://s3.us-east-1.amazonaws.com/user-data.production.cyberskyline.com/certificates/65e92a3129344c11a92446f3/BDU6LFNA39R1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAUDF4ZW3OYCTQP3HR%2F20260518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260518T224208Z&X-Amz-Expires=600&X-Amz-Signature=f25f87f2066d8e6b154cb0aeb1898876837b53f50928ccad32b286acfcfa300c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject" alt="Certification" width="150" />
+</a>
 
 
 
