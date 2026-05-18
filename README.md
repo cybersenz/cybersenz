@@ -62,6 +62,49 @@ Experienced professional with a proven track record of managing complex situatio
   <img src="https://images.credly.com/size/340x340/images/b8200bcb-258a-4089-b43d-fe23dfdc3097/image.png" alt="GIAC Certification" width="300" />
 </a>
 
+
+<!-- Credly Badge 2 -->
+<a href="https://www.credly.com/badges/b057c9e5-e307-461b-8491-3eee48b3ae23/public_url" target="_blank">
+  <img src="YOUR_CREDLY_BADGE_2_IMAGE_URL" alt="Certification" width="150" />
+</a>
+
+<!-- Credly Badge 2 -->
+<a href="https://www.credly.com/badges/b057c9e5-e307-461b-8491-3eee48b3ae23/public_url" target="_blank">
+  <img src="YOUR_CREDLY_BADGE_2_IMAGE_URL" alt="Certification" width="150" />
+</a>
+
+
+<!-- Credly Badge 2 -->
+<a href="https://www.credly.com/badges/b057c9e5-e307-461b-8491-3eee48b3ae23/public_url" target="_blank">
+  <img src="YOUR_CREDLY_BADGE_2_IMAGE_URL" alt="Certification" width="150" />
+</a>
+
+
+<!-- Credly Badge 2 -->
+<a href="https://www.credly.com/badges/b057c9e5-e307-461b-8491-3eee48b3ae23/public_url" target="_blank">
+  <img src="YOUR_CREDLY_BADGE_2_IMAGE_URL" alt="Certification" width="150" />
+</a>
+
+
+<!-- Credly Badge 2 -->
+<a href="https://www.credly.com/badges/b057c9e5-e307-461b-8491-3eee48b3ae23/public_url" target="_blank">
+  <img src="YOUR_CREDLY_BADGE_2_IMAGE_URL" alt="Certification" width="150" />
+</a>
+
+<!-- Credly Badge 2 -->
+<a href="https://www.credly.com/badges/b057c9e5-e307-461b-8491-3eee48b3ae23/public_url" target="_blank">
+  <img src="YOUR_CREDLY_BADGE_2_IMAGE_URL" alt="Certification" width="150" />
+</a>
+
+
+
+<!-- Credly Badge 2 -->
+<a href="https://www.credly.com/badges/b057c9e5-e307-461b-8491-3eee48b3ae23/public_url" target="_blank">
+  <img src="YOUR_CREDLY_BADGE_2_IMAGE_URL" alt="Certification" width="150" />
+</a>
+
+
+
 ## Section One
 
 Some content here
