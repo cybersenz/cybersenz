@@ -136,7 +136,7 @@ Functional: Documentation, ticket queue management, customer support, technical 
 </div>
 
 
-[![Joseph's Cyberskyline cert]](https://cyberskyline.com/verify/BDU6LFNA39R1)
+[![Joseph's Cyberskyline cert](https://cyberskyline.com/verify/BDU6LFNA39R1)
 
 
 <a href="https://cyberskyline.com/verify/BDU6LFNA39R1" target="_blank">
