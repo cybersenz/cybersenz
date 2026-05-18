@@ -54,7 +54,7 @@ Experienced professional with a proven track record of managing complex situatio
 
 ## Certifications
 
-
+[![Credly Badge](https://images.credly.com/size/340x340/images/YOUR_BADGE_IMAGE_ID/badge.png)](https://www.credly.com/badges/e5abb74a-3a0f-4bfb-9e78-22c12cddbe28/public_url)
 
 
 
