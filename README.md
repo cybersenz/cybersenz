@@ -14,7 +14,7 @@ Experienced professional with a proven track record of managing complex situatio
 
 ## Objective
 <!--- [Provide Objective - Remove this afterwards]] --->
-
+Aspiring cybersecurity analyst seeking opportunities to apply defensive security, log analysis, and incident response skills in real-world operational environments.
 <!--- My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. --->
 
 ## Skills
