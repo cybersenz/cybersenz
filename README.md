@@ -29,6 +29,16 @@ Aspiring cybersecurity analyst seeking opportunities to apply defensive security
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 --->
+
+Technical: Network scanning, incident handling, defense-in-depth, vulnerability assessment, log analysis
+Tools: Wireshark, Metasploit, SIEM platforms, Burp Suite, tcpdump, Nmap, John the Ripper, Splunk, netcat, hashcat, ITGlue, Datto, Autotask, Mimecast, Cisco Meraki
+Hardware/OS: Windows 10/11, macOS, Linux (Ubuntu, Kali, CentOS), workstation and server hardware, printers, mobile devices
+Networking: TCP/IP, DNS, VPN, firewalls, routers, switches, Ethernet connectivity, wireless access points
+Languages/Scripting: Python, PowerShell, Bash
+Functional: Documentation, ticket queue management, customer support, technical communication, analysis, complex problem-solving
+
+
+
 ## Tools
 <!--- [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]] --->
 
