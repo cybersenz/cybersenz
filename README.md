@@ -105,11 +105,11 @@ Experienced professional with a proven track record of managing complex situatio
 
 
 
-## Section One
+## Section One Above -> SANS Technical Institute
 
 Some content here
 
-## Section Two
+## Section Two Bellow -> University Miami Cybersecurity Bootcamp
 
 
 <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83926144"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83926144" /></a>
