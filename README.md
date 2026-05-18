@@ -112,30 +112,9 @@ Some content here
 ## Section Two
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--- <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83926144"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83926144" /></a>
+<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83926144"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83926144" /></a>
 <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/83926144"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/83926144" /></a> 
---->
+
 
 <!--- [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]] --->
 <div>
