@@ -135,6 +135,12 @@ Functional: Documentation, ticket queue management, customer support, technical 
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
+![Certificate](assets/2026_Cert.png)
+
+
+
+
+
 
 https://s3.us-east-1.amazonaws.com/user-data.production.cyberskyline.com/certificates/65e92a3129344c11a92446f3/8EQQGHX7GJ6A.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAUDF4ZW3OYCTQP3HR%2F20260521%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260521T195356Z&X-Amz-Expires=600&X-Amz-Signature=f622a05d3301c68a3315cc8864e0396ce8c3ab894ed596b0e7e4d831aa30ece8&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject
 
