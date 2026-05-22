@@ -140,6 +140,15 @@ Spring 2026 Team CTF Experience!
 Participating in this CTF was one of the more demanding and rewarding experiences I have had in my cybersecurity journey so far. Being randomly assigned to enumeration and exploitation meant there was no comfort zone to fall back on. I had to commit fully and figure it out. From Friday afternoon through most of the night, I pushed through three sections that tested not just my technical skills but my persistence. There were frustrating moments, walls that felt impossible, and stretches where exhaustion made everything harder. But every time I stepped back, took a breath, and approached a problem from a different angle, something eventually gave way. Completing all three sections was not something I took for granted , it was something I earned. 
 
 
+![Certificate](2026-03-10 17_59_47-png.png)
+![Certificate]()
+![Certificate]()
+![Certificate]()
+![Certificate]()
+![Certificate]()
+![Certificate]()
+![Certificate]()
+![Certificate]()
 
 
 
