@@ -181,7 +181,7 @@ Participating in this CTF was one of the more demanding and rewarding experience
 
 
 
-[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybersenz)](https://github.com/cybersenz/github-readme-stats)
+<!--- [![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybersenz)](https://github.com/cybersenz/github-readme-stats) --->
 
 
 
