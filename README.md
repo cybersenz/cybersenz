@@ -135,6 +135,17 @@ Functional: Documentation, ticket queue management, customer support, technical 
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
+Spring 2026 Team CTF Experience!
+
+
+
+
+
+
+
+
+
+
 ![Certificate](2026_Cert.png)
 
 
