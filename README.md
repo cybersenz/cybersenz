@@ -141,6 +141,7 @@ Participating in this CTF was one of the more demanding and rewarding experience
 
 
 ![Certificate](2026-03-10 17_59_47-png.png)
+![Certificate](2026-03-10 17_59_47-png.png)
 ![Certificate]()
 ![Certificate]()
 ![Certificate]()
