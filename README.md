@@ -151,6 +151,8 @@ Participating in this CTF was one of the more demanding and rewarding experience
 
 ![Certificate](2026_Cert.png)
 
+Spring 2026 Individual CTF!
+
 ![Certificate](2026-05-22%2013_58_28-Greenshot.png)
 ![Certificate](2026-05-22%2013_59_14-Greenshot.png)
 ![Certificate](2026-05-22%2013_59_38-Greenshot.png)
