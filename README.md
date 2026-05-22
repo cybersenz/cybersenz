@@ -115,7 +115,7 @@ Functional: Documentation, ticket queue management, customer support, technical 
 
 
 
-## Section One Above -> SANS Technical Institute
+## Section One Above -> SANS Technical Institute Certifications
 
 <!--- Some content here --->
 
@@ -143,7 +143,7 @@ Participating in this CTF was one of the more demanding and rewarding experience
 ![Certificate](2026-03-10%2017_59_47-png.png)
 ![Certificate](2026-05-22%2011_30_47-Greenshot.png)
 ![Certificate](2026-05-22%2011_31_15-Greenshot.png)
-![Certificate]()
+![Certificate](2026-05-22%2011_33_36-.png)
 ![Certificate]()
 ![Certificate]()
 ![Certificate]()
