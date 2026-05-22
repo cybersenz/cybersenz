@@ -157,7 +157,7 @@ Participating in this CTF was one of the more demanding and rewarding experience
 ![Certificate](2026-05-22%2014_00_03-Greenshot.png)
 ![Certificate](2026-05-22%2014_00_28-Greenshot.png)
 ![Certificate](2026-05-22%2014_01_29-2026%20Spring%20Individual%20CTF%20-%20File%20Explorer.png)
-![Certificate]()
+![Certificate](2026-05-22%2014_02_08-2026%20Spring%20Individual%20CTF%20-%20File%20Explorer.png)
 ![Certificate]()
 
 
